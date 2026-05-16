@@ -1,4 +1,4 @@
-# Joel Damian Alegre — Portfolio Web
+# Joel Damian Alegre — Portafolio Web
 
 Portafolio personal desarrollado con HTML, CSS y JavaScript vanilla.
 
